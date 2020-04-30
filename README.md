@@ -1,2 +1,2 @@
 # SpeedSpeech
-Extensão para aumentar a velocidade dos audios
+A chrome extension to speed up of the voice message of whatsapp 
